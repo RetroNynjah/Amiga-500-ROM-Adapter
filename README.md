@@ -6,11 +6,11 @@ To be able to use regular 27C400 or 27C800 EPROMS on Amiga 500 Rev 5 boards, you
 If that wasn't enough there are compatibility problems between some EPROMS and some machines/CPUs which requires pull-up resistors on the address pins.
 This simple adapter board solves both problems. It re-routes the EPROM pins and has place for two optional resistor nets.
 
-<img src="images/rev1_installed.jpg" alt="installed" width="500"/>
+<img src="images/rev1_installed.jpg" alt="installed" align="left" width="500"/>
 
 *Diag ROM installed on a Rev 5 board*
 
-<img src="images/rev1_top.png" alt="PCB top"/>
+<img src="images/rev1_top.png" alt="PCB top" align="left"/>
 
 ## BOM
  |Component|Pcs |Name|Comment|
