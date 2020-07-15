@@ -10,7 +10,7 @@ This simple adapter board solves both problems. It re-routes the EPROM pins and 
 
 *Diag ROM installed on a Rev 5 board*
 
-<img src="images/rev1_render.png" alt="render" width="400"/>
+<img src="images/rev1_top.png" alt="PCB top" width="400"/>
 
 ## BOM
  |Component|Pcs |Name|Comment|
